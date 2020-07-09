@@ -2,6 +2,8 @@ Project : using React DND to build a chess board and drag a knight through it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+demo on codesandbox : https://codesandbox.io/s/github/DEISS-Philippe/react-dnd-chessboard?file=/src/App.js
+
 ## Available Scripts
 
 In the project directory, you can run:
